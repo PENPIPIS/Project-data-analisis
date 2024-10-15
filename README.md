@@ -18,3 +18,7 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+## Or Just click URL below
+```
+https://ens3zk9uvxnbkyniffwzza.streamlit.app/
+```
